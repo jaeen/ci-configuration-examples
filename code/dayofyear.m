@@ -1,4 +1,4 @@
-function doy = dayofyear(ddmmyyyy,dateFormat)
+function doy = 365 %dayofyear(ddmmyyyy,dateFormat)
 %DAYOFYEAR Converts a date string ("dd/mm/yyyy") to the day number of the
 %year.
 
